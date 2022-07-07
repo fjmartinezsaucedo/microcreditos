@@ -1,0 +1,13 @@
+F:\Visual Studio 2015\Projects\microcreditos\microcreditos\bin\Debug\microcreditos.exe.config
+F:\Visual Studio 2015\Projects\microcreditos\microcreditos\bin\Debug\microcreditos.exe
+F:\Visual Studio 2015\Projects\microcreditos\microcreditos\bin\Debug\microcreditos.pdb
+F:\Visual Studio 2015\Projects\microcreditos\microcreditos\obj\Debug\microcreditos.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\Projects\microcreditos\microcreditos\obj\Debug\microcreditos.PantallaCarga.resources
+F:\Visual Studio 2015\Projects\microcreditos\microcreditos\obj\Debug\microcreditos.Properties.Resources.resources
+F:\Visual Studio 2015\Projects\microcreditos\microcreditos\obj\Debug\microcreditos.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\Projects\microcreditos\microcreditos\obj\Debug\microcreditos.exe
+F:\Visual Studio 2015\Projects\microcreditos\microcreditos\obj\Debug\microcreditos.pdb
+F:\Visual Studio 2015\Projects\microcreditos\microcreditos\obj\Debug\microcreditos.Inicio.resources
+F:\Visual Studio 2015\Projects\microcreditos\microcreditos\obj\Debug\microcreditos.Consultar.resources
+F:\Visual Studio 2015\Projects\microcreditos\microcreditos\obj\Debug\microcreditos.Historial.resources
+F:\Visual Studio 2015\Projects\microcreditos\microcreditos\obj\Debug\microcreditos.Pagos.resources
